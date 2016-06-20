@@ -242,7 +242,7 @@ table {
 
 ::selection {
   text-shadow: none;
-  background: ;
+  background:lightskyblue ;
   color: white;
 }
 
@@ -466,7 +466,7 @@ footer .twitter-share-button {
 }
 .about .cables:after {
   right: 10%;
-  background: transparent url(/images/rope.png) 0 0 no-repeat;
+  background: transparent url("images/rope.png"); 0: 0 no-repeat;
   position: absolute;
   display: block;
   height: 860px;
