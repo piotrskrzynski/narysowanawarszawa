@@ -242,13 +242,13 @@ table {
 
 ::selection {
   text-shadow: none;
-  background: lightskyblue;
+  background: ;
   color: white;
 }
 
 ::-moz-selection {
   text-shadow: none;
-  background: lightskyblue;
+  background: whitesmoke;
   color: white;
 }
 
@@ -303,7 +303,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: yellowgreen;
+  color: darkslateblue;
 }
 
 button {
@@ -743,7 +743,7 @@ footer .twitter-share-button {
   font-size: 1.25em;
   margin: 0 10% 1.25em;
   line-height: 1.25em;
-  color: yellow;
+  color: darkblue;
 }
 .prompt .tilt-scene {
   -webkit-perspective: 1000px;
@@ -821,7 +821,7 @@ footer .twitter-share-button {
   background-size: 128px 224px;
   height: 224px;
   width: 128px;
-  background-image: url(../../images/lighthouse.png);
+  background-image: url("images/lighthouse.png");
   background-repeat: no-repeat;
   bottom: 64px;
   position: absolute;
